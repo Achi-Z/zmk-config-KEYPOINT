@@ -2,8 +2,9 @@
 
 **0. Register a github account if you don't have one.**  
 **1. Fork this repo.**  
-**2. Open up `config/zitaotech_keypoint.keymap` and edit the keymap to your liking.**  
-**3. After editing the keymap, choose commit changes.**  
+**2. Go to Github Actions section and enable actions**  
+**3. Open up `config/zitaotech_keypoint.keymap` and edit the keymap to your liking.**  
+**4. After editing the keymap, choose commit changes.**  
 **and then check the Github Actions section.**  
 **Your new firmware file should be available for download.**  
 **5. Unzip the firmware.zip file. You should see one files: `lpm_view;left_bbtrackpad_keypoint-zitaotech_keypoint_left-zmk.uf2`.**  
@@ -12,11 +13,12 @@
 ```Option2```  
 **0. Register a github account if you don't have one.**  
 **1. Fork this repo.**  
-**2. Access the [keymap editor web](https://nickcoutsos.github.io/keymap-editor/)**  
-**3. Login with your Github Account on the web**  
-**4. Choose the right repository and you can edit the keymap more intuitivly**  
-**5. After editting the keymap there will be another github action compiling and you will have the firmware.zip file**  
-**6. Flash the keyboard with your new firmware.**  
+**2. Go to Github Actions section and enable actions**  
+**3. Access the [keymap editor web](https://nickcoutsos.github.io/keymap-editor/)**  
+**4. Login with your Github Account on the web**  
+**5. Choose the right repository and you can edit the keymap more intuitivly**  
+**6. After editting the keymap there will be another github action compiling and you will have the firmware.zip file**  
+**7. Flash the keyboard with your new firmware.**  
 
 **More Info about the web app please access this [github page](https://github.com/nickcoutsos/keymap-editor)**  
  
